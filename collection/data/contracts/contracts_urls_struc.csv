@@ -1,0 +1,4 @@
+,column,dtype,non-null,descr
+0,regNum,object,1556,Идентификационный номер контракта
+1,contractUrl,object,1556,URL на контракт на сайте zakupki.gov.ru
+2,printFormUrl,object,1539,URL на печатную версию контракта на сайте zakupki.gov.ru
